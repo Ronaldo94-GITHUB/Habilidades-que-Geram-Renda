@@ -7,7 +7,7 @@ A proposta é usar **inteligência artificial** e ferramentas digitais para tran
 
 ---
 
-![Capa do Projeto](assets/Remuneradas.png)
+![Capa do Projeto](Remuneradas.png)
 
 ---
 
